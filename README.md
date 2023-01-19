@@ -13,3 +13,6 @@ Sequelize
 See LICENSE in the repo.
 
 ## Screenshot and URL
+<img width="1120" alt="homepage" src="https://user-images.githubusercontent.com/111388055/213343811-ab28ce93-edfc-4f5e-a6b6-273f179f64fc.png">
+<img width="1120" alt="post" src="https://user-images.githubusercontent.com/111388055/213343818-e34031c3-d22d-48d2-9b73-c1eb78791b84.png">
+<img width="1120" alt="login" src="https://user-images.githubusercontent.com/111388055/213343819-825fddc5-83f2-4ecf-95e3-ca895a05d616.png">
