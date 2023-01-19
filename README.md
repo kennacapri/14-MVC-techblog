@@ -1,14 +1,15 @@
 # 14-MVC-Tech Blog
 
 ## Description
-This website is for schedule planning. There are time blocks for each hour where the user can enter in the details of their day. Users can save the information they enter in this schedule planner.
+This website is for developers who love to write about anything tech related. This website allows users/developers to create a login and write blog posts where they can save and delete whenever they'd like. 
 
 ## Usage
-This website is for anyone needing to keep track of their busy schedule. Users have the ability to enter their hourly events and to do's. The time blocks are color coded making it easy for users to see things that happened in the past, present or planning things for the future. Users can save information in each time block and after refreshing the page, the user will find that their information is still there. 
+The homepage of this website shows a few blog posts that users have created. When you click the login option on the top right of the header you will have to option to login or create a login to use this website. Once you've logged in or created a login, then you will be able to write a new blog post and share it. You can also delete any posts you've made. Once you've finished sharing your blog post then you can click the logout option. If you are idle for a several minutes the website will log you out as well. Enjoy writing posts about anything tech related! 
 
 ## Credits
-https://momentjs.com/ for date and time starter code
+Sequelize
 
 ## License
 See LICENSE in the repo.
 
+## Screenshot and URL
